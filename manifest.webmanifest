@@ -1,0 +1,18 @@
+{
+ "name": "منشئ الأوراق الامتحانية",
+ "short_name": "أوراق الامتحان",
+ "description": "إنشاء الأوراق الامتحانية وطباعتها — حسين جعفر العنكوشي",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "lang": "ar",
+ "dir": "rtl",
+ "background_color": "#ffe8cc",
+ "theme_color": "#ffb300",
+ "icons": [
+  {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+  {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+  {"src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+ ]
+}
